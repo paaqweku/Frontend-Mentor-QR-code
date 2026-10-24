@@ -22,9 +22,8 @@ This was a simple project that challenged me to use professional tools for the f
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
+- Solution URL: https://github.com/paaqweku/Frontend-Mentor-QR-code
+- Live Site URL: https://paaqweku.github.io/Frontend-Mentor-QR-code/
 ## My process
 This project involved basic css and html to build. Being the first time taking something of this importance, I was a little bit intimidated and not confident in my skills. I wrapped the main card into a div and centered the div by editing the properties of the body tag in CSS. I then anchored the footer to the bottom of the page. VSCodes auto fill helped me a lot sinc I am still new to CSS
 
